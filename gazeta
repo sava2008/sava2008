@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Gazeta</title>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <style>
+
+  body {
+    background: #000033; /* Цвет фона */
+   }
+
+  h2 {
+    background: #ffffff; /* Цвет фона под заголовком */
+    color: #000000; /* Цвет текста */
+    padding: 9px; /* Поля вокруг текста */
+    border-radius: 10px;
+  }
+  	
+  h1 {
+    background: #ffffff; /* Цвет фона под заголовком */
+    color: #000000; /* Цвет текста */
+    padding: 9px; /* Поля вокруг текста */
+    border-radius: 90px 9px; /* Радиус скругления */
+   }
+
+  </style>
+
+
+</head>
+<body bgcolor="White" text="Black">
+<table height="100%" width="100%">
+  <tr height="100%">
+    <td align="center">
+      <font face="Tahoma" size="15" color="#cccccc">
+      <h1>Газета</h1>
+      </font>
+	  <br>
+	  <br>
+	  <br>
+	  <br>
+	  <font face="Tahoma" size="5" color="#cccccc"><i>
+	  <h2><font align="center">Это тестевый выпуск газеты</font><br>Интересный факт: первый выпуск газеты нашего класса состоялся в 2020 году, но был утерян... И вышла она только один раз, тогда она была бумажной</h2>
+	  <h2><font align="center">...</font><br>Чем этот дневник лучше обычного?<br><br>Здесь будет выкладываться ПОЛНОЕ дз, это не приложение и не занимает место на устройстве, нет регистрации и авторизации<br><br>Почему не отправляем дз в группу?<br><br>Так снизится вероятность что сообщения будут кому-то мешать, так сайт будет независимым<br><br>Со временем будет добавлена функция "Классная работа"</h2>
+	  <br>
+	  <br>
+	  <b><a href="https://t.me/joinchat/ePuX_L9YOyEwYTVi";>Служба Поддержки</small></small></small></small></a></b><br>
+          <b><a href="https://www.instagram.com/saveley.novosel/?hl=ru";>Савелий Новоселов</small></small></small></small></a></b><br>
+          <b><a>2021</small></small></small></small></a></b><br>
+    <b><a href="https://t.me/joinchat/ePuX_L9YOyEwYTVi"></a></b><br>
+    <br>
+	  <b>Gazeta</b>
+	  <br>
+	  </font>
+      <font face="Verdana,Tahoma,Arial" size="2" color="black">
+      <br><br>
+      </font>
+    </td>
+  </tr>
+  </table>
+
+</body>
+</html>
