@@ -1,0 +1,97 @@
+    A {
+    color: #FF4500; /* Цвет текста */
+   }
+
+    h404 {
+     background: #000000; /* Цвет фона */
+    }
+
+    h403 {
+     background: #700024; /* Цвет фона */
+    }
+
+
+   
+
+
+    body {
+    background: #ffffff; /* Цвет фона */
+   }
+
+   /*  body { 
+    /* Градиент */ 
+    background: linear-gradient(#50c878, #00bfff) fixed;
+   }
+   div {
+    width: 70%; /* Ширина */
+    margin: auto; /* Выравниваем по центру */
+    min-height: 2000px; /* Минимальная высота */
+    background: #fff; /* Белый цвет фона */
+   }
+   
+
+   h1 {
+    background: #242f3d; /* Цвет фона под заголовком */
+    color: Snow; /* Цвет текста */
+    padding: 9px; /* Поля вокруг текста */
+    border-radius: 90px 9px; /* Радиус скругления */
+   }
+   h2 {
+    color: #ffffff; /* Цвет текста */
+   }
+   h3 {
+    color: #ffffff; /* Цвет текста */
+   }
+
+   
+
+  .menu {
+  width: 5;
+  display: table;
+}
+  .menu ul {
+  display: table-row;
+}
+  .menu li {
+  display: table-cell;
+  background: #000000;
+}
+  .menu ul li:hover, .menu a:hover {
+  background: #28284d;
+}
+  .menu li a {
+  display: block;
+  padding: 20px 150px;
+  color: #ffffff;
+  text-align: center;
+}
+
+
+
+
+
+  body {
+    background: #ffffff url(logo.jpg) no-repeat; /* Фоновый цвет и фоновый рисунок*/
+    background-position-x: center; /* Положение фона справа */
+    background-repeat: no-repeat; /* Фон без повторения */
+    background-attachment: fixed; /* Фон страницы фиксируется */
+  }
+
+
+
+
+
+
+
+
+  .doma ul {
+    background: rgba(13, 0, 84, 0.8); /* Полупрозрачный фон */
+    padding: -9px; /* Поля вокруг текста */
+    border-radius: 220px; /* Радиус скругления */
+}
+
+  god {
+    background: rgba(13, 0, 84, 0.8); /* Полупрозрачный фон */
+    padding: -9px; /* Поля вокруг текста */
+    border-radius: 220px; /* Радиус скругления */
+    }
