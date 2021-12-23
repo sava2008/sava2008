@@ -1,4 +1,4 @@
-    A {
+     A {
     color: #FF4500; /* Цвет текста */
    }
 
@@ -71,8 +71,8 @@
 
 
   body {
-    background: #ffffff url(logo.jpg) no-repeat; /* Фоновый цвет и фоновый рисунок*/
-    background-position-x: center; /* Положение фона справа */
+    background: #ffffff url(привидение_нг.png) no-repeat; /* Фоновый цвет и фоновый рисунок*/
+    background-position-x: center; /* Положение фона по середине */
     background-repeat: no-repeat; /* Фон без повторения */
     background-attachment: fixed; /* Фон страницы фиксируется */
   }
